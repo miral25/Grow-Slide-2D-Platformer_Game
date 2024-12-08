@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Diamond_Tag
+  - End_Plate
+  - Checkpoint_Tag
+  - SpikeTag
+  - Spike_Tag
+  - mario_brick
+  - Hex_Key_Tag
+  - Hex_Key_Plate
+  - Breakable_Brick
+  - FanZone
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Spring
+  - Fan
+  - CrateOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arrow
+    uniqueID: 3936767143
+    locked: 0
